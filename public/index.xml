@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fat Hikers Club</title>
+    <link>http://localhost:1313/fat-hikers-club/</link>
+    <description>Recent content on Fat Hikers Club</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/fat-hikers-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/fat-hikers-club/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fat-hikers-club/about/</guid>
+      <description>&lt;h1 id=&#34;about-the-fat-hikers-club&#34;&gt;About the Fat Hikers Club&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the Fat Hikers Club! We&amp;rsquo;re a community dedicated to making hiking accessible and enjoyable for people of all sizes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

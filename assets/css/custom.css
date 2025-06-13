@@ -1,0 +1,15 @@
+/* Custom CSS to fix theme display issues */
+.wrapper {
+    display: flex;
+}
+
+@media (min-width: 48em) {
+    .sidebar {
+        position: fixed;
+        height: 100vh;
+    }
+    
+    .content {
+        margin-left: 18rem;
+    }
+}
