@@ -13,3 +13,50 @@
         margin-left: 18rem;
     }
 }
+
+/* Custom font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+/* Apply custom font to body */
+html {
+  font-family: 'Hack Nerd Font', monospace;
+}
+
+/* Adjust sidebar font size */
+.sidebar-about h1 {
+  font-size: 1.2em;
+}
+
+.sidebar-nav {
+  font-size: 1.1em;
+}
+
+.sidebar-sticky {
+  font-size: 0.95em;
+}
+
+/* Override the title font in the sidebar */
+.sidebar-about h1 {
+  font-family: 'Hack Nerd Font', monospace !important;
+  font-size: 1.2em !important;
+  font-weight: bold;
+}
+
+/* Override the page title font in the content area */
+.post-title, h1.post-title, .content h1 {
+  font-family: 'Hack Nerd Font', monospace !important;
+  font-size: 2.2em !important;
+}
+
+/* Make sure all headings use the custom font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hack Nerd Font', monospace !important;
+}
+/* Style the description in the sidebar */
+.sidebar-about p {
+  font-family: 'Hack Nerd Font', monospace !important;
+  font-size: 0.9em !important;
+  line-height: 1.4;
+}
+
+

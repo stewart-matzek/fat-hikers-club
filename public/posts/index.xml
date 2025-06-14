@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fat Hikers Club</title>
-    <link>https://stewart-matzek.github/fat-hikers-club/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Fat Hikers Club</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://stewart-matzek.github/fat-hikers-club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://stewart-matzek.github/fat-hikers-club/posts/test/</link>
+      <title>Test post</title>
+      <link>//localhost:1313/posts/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stewart-matzek.github/fat-hikers-club/posts/test/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test&#34;&gt;This is a test&lt;/h1&gt;</description>
+      <guid>//localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;Test post&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
